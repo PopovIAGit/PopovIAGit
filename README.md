@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Popov Ivan
-- 👀 I'm interested in embedded development (MCU)
-- 🌱 I’m currently learning Java/Android
-- 💞️ I’m looking to collaborate on 
+- 👀 I am interested in embedded development (MCU) and mobile development (Kotlin/java) 
+- 🌱 I’m currently learning use of BLE in desktop applications (C# and WPF)
 - 📫 How to reach me - email myxxxwm@gmail.com, +79234046955
 - 
 
